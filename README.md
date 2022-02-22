@@ -1,7 +1,7 @@
 <h1 align="center">Hi😪 My name is Maxime</h1>
 <h3 align="center">A Fullstack Developer from France 🇫🇷</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampetoux&label=Profile%20views&color=0e75b6&style=flat" alt="iampetoux" /> </p>
+<img src="https://github.com/iampetoux/iampetoux.github.io/blob/master/img/github.png" alt="iampetoux" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iampetoux" alt="iampetoux" /></a> </p>
 
