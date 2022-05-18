@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/iampetoux/iampetoux.github.io/master/img/githubb.png" alt="iampetoux" /> </p>
+<p align="center"><img src="https://raw.githubusercontent.com/iampetoux/iampetoux.github.io/master/img/github-banner.png" alt="iampetoux" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iampetoux" alt="iampetoux" /></a> </p>
 
